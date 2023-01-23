@@ -1,4 +1,5 @@
 // for now manually go to rejseplanen and get the desired stations loaded on the map 
+// https://www.rejseplanen.dk/bin/help.exe/mn?L=vs_livemap&tpl=fullscreenmap
 // run the following in the console
 
 function parseObject(obj) {
