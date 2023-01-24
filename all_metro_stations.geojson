@@ -1,0 +1,753 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.491662,
+                    55.687293
+                ]
+            },
+            "properties": {
+                "name": "Vanløse St. (Metro)",
+                "type_transit": "location",
+                "infotitle": "<div style=\"float:left;padding:10px;\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/products/metro.png\"/></div><div style=\"float:left;line-height:58px;font-size:18px;margin-left:10px;\">Vanløse St. (Metro)</div><div style=\"clear:both;\"></div>",
+                "infocontent": "<div style=\"display:none;\" id=\"stationLines_8603301\"><div style=\"display:block;width:400px;\" id=\"stationWaitIcon_8603301\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/ajax_loader_small.gif\"/>&nbsp;Loading...</div></div><div style=\"height:240px;\" class=\"lc_stationDeparturesPopup\" id=\"stationDepartures_8603301\"><div style=\"margin-top:10px;margin-bottom:5px;\">N&#230;ste afgange herfra (klik p&#229; afgang for at se linje p&#229; kort):</div><div><iframe height=\"180\" frameborder=\"0\" src=\"https://webapp.rejseplanen.dk/bin/stboard.exe/mn?L=vs_stblivemap&input=8603301&productsFilter=00000000001&\"></iframe></div><div><a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!SID|A=1@O=Vanløse St. (Metro)@X=12491662@Y=55687293@L=8603301U=86p=1674468889&\">S&#248;g rejse herfra</a> <span style=\"color:#737470;\">|</span> <a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!ZID|A=1@O=Vanløse St. (Metro)@X=12491662@Y=55687293@L=8603301U=86p=1674468889&\">S&#248;g rejse hertil</a></div></div>",
+                "imageurl": "/hafas-res/img/livemap/metro_stops.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.499528,
+                    55.685873
+                ]
+            },
+            "properties": {
+                "name": "Flintholm St. (Metro)",
+                "type_transit": "location",
+                "infotitle": "<div style=\"float:left;padding:10px;\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/products/metro.png\"/></div><div style=\"float:left;line-height:58px;font-size:18px;margin-left:10px;\">Flintholm St. (Metro)</div><div style=\"clear:both;\"></div>",
+                "infocontent": "<div style=\"display:none;\" id=\"stationLines_8603302\"><div style=\"display:block;width:400px;\" id=\"stationWaitIcon_8603302\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/ajax_loader_small.gif\"/>&nbsp;Loading...</div></div><div style=\"height:240px;\" class=\"lc_stationDeparturesPopup\" id=\"stationDepartures_8603302\"><div style=\"margin-top:10px;margin-bottom:5px;\">N&#230;ste afgange herfra (klik p&#229; afgang for at se linje p&#229; kort):</div><div><iframe height=\"180\" frameborder=\"0\" src=\"https://webapp.rejseplanen.dk/bin/stboard.exe/mn?L=vs_stblivemap&input=8603302&productsFilter=00000000001&\"></iframe></div><div><a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!SID|A=1@O=Flintholm St. (Metro)@X=12499528@Y=55685873@L=8603302U=86p=1674468889&\">S&#248;g rejse herfra</a> <span style=\"color:#737470;\">|</span> <a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!ZID|A=1@O=Flintholm St. (Metro)@X=12499528@Y=55685873@L=8603302U=86p=1674468889&\">S&#248;g rejse hertil</a></div></div>",
+                "imageurl": "/hafas-res/img/livemap/metro_stops.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.512877,
+                    55.683482
+                ]
+            },
+            "properties": {
+                "name": "Lindevang St. (Metro)",
+                "type_transit": "location",
+                "infotitle": "<div style=\"float:left;padding:10px;\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/products/metro.png\"/></div><div style=\"float:left;line-height:58px;font-size:18px;margin-left:10px;\">Lindevang St. (Metro)</div><div style=\"clear:both;\"></div>",
+                "infocontent": "<div style=\"display:none;\" id=\"stationLines_8603303\"><div style=\"display:block;width:400px;\" id=\"stationWaitIcon_8603303\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/ajax_loader_small.gif\"/>&nbsp;Loading...</div></div><div style=\"height:240px;\" class=\"lc_stationDeparturesPopup\" id=\"stationDepartures_8603303\"><div style=\"margin-top:10px;margin-bottom:5px;\">N&#230;ste afgange herfra (klik p&#229; afgang for at se linje p&#229; kort):</div><div><iframe height=\"180\" frameborder=\"0\" src=\"https://webapp.rejseplanen.dk/bin/stboard.exe/mn?L=vs_stblivemap&input=8603303&productsFilter=00000000001&\"></iframe></div><div><a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!SID|A=1@O=Lindevang St. (Metro)@X=12512877@Y=55683482@L=8603303U=86p=1674468889&\">S&#248;g rejse herfra</a> <span style=\"color:#737470;\">|</span> <a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!ZID|A=1@O=Lindevang St. (Metro)@X=12512877@Y=55683482@L=8603303U=86p=1674468889&\">S&#248;g rejse hertil</a></div></div>",
+                "imageurl": "/hafas-res/img/livemap/metro_stops.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.523106,
+                    55.681666
+                ]
+            },
+            "properties": {
+                "name": "Fasanvej St. (Metro)",
+                "type_transit": "location",
+                "infotitle": "<div style=\"float:left;padding:10px;\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/products/metro.png\"/></div><div style=\"float:left;line-height:58px;font-size:18px;margin-left:10px;\">Fasanvej St. (Metro)</div><div style=\"clear:both;\"></div>",
+                "infocontent": "<div style=\"display:none;\" id=\"stationLines_8603304\"><div style=\"display:block;width:400px;\" id=\"stationWaitIcon_8603304\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/ajax_loader_small.gif\"/>&nbsp;Loading...</div></div><div style=\"height:240px;\" class=\"lc_stationDeparturesPopup\" id=\"stationDepartures_8603304\"><div style=\"margin-top:10px;margin-bottom:5px;\">N&#230;ste afgange herfra (klik p&#229; afgang for at se linje p&#229; kort):</div><div><iframe height=\"180\" frameborder=\"0\" src=\"https://webapp.rejseplanen.dk/bin/stboard.exe/mn?L=vs_stblivemap&input=8603304&productsFilter=00000000001&\"></iframe></div><div><a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!SID|A=1@O=Fasanvej St. (Metro)@X=12523106@Y=55681666@L=8603304U=86p=1674468889&\">S&#248;g rejse herfra</a> <span style=\"color:#737470;\">|</span> <a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!ZID|A=1@O=Fasanvej St. (Metro)@X=12523106@Y=55681666@L=8603304U=86p=1674468889&\">S&#248;g rejse hertil</a></div></div>",
+                "imageurl": "/hafas-res/img/livemap/metro_stops.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.531718,
+                    55.681226
+                ]
+            },
+            "properties": {
+                "name": "Frederiksberg St. (Metro)",
+                "type_transit": "location",
+                "infotitle": "<div style=\"float:left;padding:10px;\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/products/metro.png\"/></div><div style=\"float:left;line-height:58px;font-size:18px;margin-left:10px;\">Frederiksberg St. (Metro)</div><div style=\"clear:both;\"></div>",
+                "infocontent": "<div style=\"display:none;\" id=\"stationLines_8603305\"><div style=\"display:block;width:400px;\" id=\"stationWaitIcon_8603305\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/ajax_loader_small.gif\"/>&nbsp;Loading...</div></div><div style=\"height:240px;\" class=\"lc_stationDeparturesPopup\" id=\"stationDepartures_8603305\"><div style=\"margin-top:10px;margin-bottom:5px;\">N&#230;ste afgange herfra (klik p&#229; afgang for at se linje p&#229; kort):</div><div><iframe height=\"180\" frameborder=\"0\" src=\"https://webapp.rejseplanen.dk/bin/stboard.exe/mn?L=vs_stblivemap&input=8603305&productsFilter=00000000001&\"></iframe></div><div><a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!SID|A=1@O=Frederiksberg St. (Metro)@X=12531718@Y=55681226@L=8603305U=86p=1674468889&\">S&#248;g rejse herfra</a> <span style=\"color:#737470;\">|</span> <a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!ZID|A=1@O=Frederiksberg St. (Metro)@X=12531718@Y=55681226@L=8603305U=86p=1674468889&\">S&#248;g rejse hertil</a></div></div>",
+                "imageurl": "/hafas-res/img/livemap/metro_stops.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.533183,
+                    55.686376
+                ]
+            },
+            "properties": {
+                "name": "Aksel Møllers Have St. (Metro)",
+                "type_transit": "location",
+                "infotitle": "<div style=\"float:left;padding:10px;\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/products/metro.png\"/></div><div style=\"float:left;line-height:58px;font-size:18px;margin-left:10px;\">Aksel Møllers Have St. (Metro)</div><div style=\"clear:both;\"></div>",
+                "infocontent": "<div style=\"display:none;\" id=\"stationLines_8603342\"><div style=\"display:block;width:400px;\" id=\"stationWaitIcon_8603342\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/ajax_loader_small.gif\"/>&nbsp;Loading...</div></div><div style=\"height:240px;\" class=\"lc_stationDeparturesPopup\" id=\"stationDepartures_8603342\"><div style=\"margin-top:10px;margin-bottom:5px;\">N&#230;ste afgange herfra (klik p&#229; afgang for at se linje p&#229; kort):</div><div><iframe height=\"180\" frameborder=\"0\" src=\"https://webapp.rejseplanen.dk/bin/stboard.exe/mn?L=vs_stblivemap&input=8603342&productsFilter=00000000001&\"></iframe></div><div><a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!SID|A=1@O=Aksel Møllers Have St. (Metro)@X=12533183@Y=55686376@L=8603342U=86p=1674468889&\">S&#248;g rejse herfra</a> <span style=\"color:#737470;\">|</span> <a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!ZID|A=1@O=Aksel Møllers Have St. (Metro)@X=12533183@Y=55686376@L=8603342U=86p=1674468889&\">S&#248;g rejse hertil</a></div></div>",
+                "imageurl": "/hafas-res/img/livemap/metro_stops.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.538082,
+                    55.700552
+                ]
+            },
+            "properties": {
+                "name": "Nørrebro St. (Metro)",
+                "type_transit": "location",
+                "infotitle": "<div style=\"float:left;padding:10px;\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/products/metro.png\"/></div><div style=\"float:left;line-height:58px;font-size:18px;margin-left:10px;\">Nørrebro St. (Metro)</div><div style=\"clear:both;\"></div>",
+                "infocontent": "<div style=\"display:none;\" id=\"stationLines_8603339\"><div style=\"display:block;width:400px;\" id=\"stationWaitIcon_8603339\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/ajax_loader_small.gif\"/>&nbsp;Loading...</div></div><div style=\"height:240px;\" class=\"lc_stationDeparturesPopup\" id=\"stationDepartures_8603339\"><div style=\"margin-top:10px;margin-bottom:5px;\">N&#230;ste afgange herfra (klik p&#229; afgang for at se linje p&#229; kort):</div><div><iframe height=\"180\" frameborder=\"0\" src=\"https://webapp.rejseplanen.dk/bin/stboard.exe/mn?L=vs_stblivemap&input=8603339&productsFilter=00000000001&\"></iframe></div><div><a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!SID|A=1@O=Nørrebro St. (Metro)@X=12538082@Y=55700552@L=8603339U=86p=1674468889&\">S&#248;g rejse herfra</a> <span style=\"color:#737470;\">|</span> <a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!ZID|A=1@O=Nørrebro St. (Metro)@X=12538082@Y=55700552@L=8603339U=86p=1674468889&\">S&#248;g rejse hertil</a></div></div>",
+                "imageurl": "/hafas-res/img/livemap/metro_stops.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.538217,
+                    55.685001
+                ]
+            },
+            "properties": {
+                "name": "Rolighedsvej (Falkoner Allé)",
+                "type_transit": "location",
+                "infotitle": "<div style=\"float:left;padding:10px;\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/products/metro.png\"/></div><div style=\"float:left;line-height:58px;font-size:18px;margin-left:10px;\">Rolighedsvej (Falkoner Allé)</div><div style=\"clear:both;\"></div>",
+                "infocontent": "<div style=\"display:none;\" id=\"stationLines_1092\"><div style=\"display:block;width:400px;\" id=\"stationWaitIcon_1092\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/ajax_loader_small.gif\"/>&nbsp;Loading...</div></div><div style=\"height:240px;\" class=\"lc_stationDeparturesPopup\" id=\"stationDepartures_1092\"><div style=\"margin-top:10px;margin-bottom:5px;\">N&#230;ste afgange herfra (klik p&#229; afgang for at se linje p&#229; kort):</div><div><iframe height=\"180\" frameborder=\"0\" src=\"https://webapp.rejseplanen.dk/bin/stboard.exe/mn?L=vs_stblivemap&input=1092&productsFilter=00000000001&\"></iframe></div><div><a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!SID|A=1@O=Rolighedsvej (Falkoner Allé)@X=12538217@Y=55685001@L=1092U=86p=1674468889&\">S&#248;g rejse herfra</a> <span style=\"color:#737470;\">|</span> <a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!ZID|A=1@O=Rolighedsvej (Falkoner Allé)@X=12538217@Y=55685001@L=1092U=86p=1674468889&\">S&#248;g rejse hertil</a></div></div>",
+                "imageurl": "/hafas-res/img/livemap/metro_stops.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.538927,
+                    55.685621
+                ]
+            },
+            "properties": {
+                "name": "Rolighedsvej (Falkoner Allé)",
+                "type_transit": "location",
+                "infotitle": "<div style=\"float:left;padding:10px;\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/products/metro.png\"/></div><div style=\"float:left;line-height:58px;font-size:18px;margin-left:10px;\">Rolighedsvej (Falkoner Allé)</div><div style=\"clear:both;\"></div>",
+                "infocontent": "<div style=\"display:none;\" id=\"stationLines_1118\"><div style=\"display:block;width:400px;\" id=\"stationWaitIcon_1118\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/ajax_loader_small.gif\"/>&nbsp;Loading...</div></div><div style=\"height:240px;\" class=\"lc_stationDeparturesPopup\" id=\"stationDepartures_1118\"><div style=\"margin-top:10px;margin-bottom:5px;\">N&#230;ste afgange herfra (klik p&#229; afgang for at se linje p&#229; kort):</div><div><iframe height=\"180\" frameborder=\"0\" src=\"https://webapp.rejseplanen.dk/bin/stboard.exe/mn?L=vs_stblivemap&input=1118&productsFilter=00000000001&\"></iframe></div><div><a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!SID|A=1@O=Rolighedsvej (Falkoner Allé)@X=12538927@Y=55685621@L=1118U=86p=1674468889&\">S&#248;g rejse herfra</a> <span style=\"color:#737470;\">|</span> <a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!ZID|A=1@O=Rolighedsvej (Falkoner Allé)@X=12538927@Y=55685621@L=1118U=86p=1674468889&\">S&#248;g rejse hertil</a></div></div>",
+                "imageurl": "/hafas-res/img/livemap/metro_stops.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.540348,
+                    55.673729
+                ]
+            },
+            "properties": {
+                "name": "Frederiksberg Allé St. (Metro)",
+                "type_transit": "location",
+                "infotitle": "<div style=\"float:left;padding:10px;\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/products/metro.png\"/></div><div style=\"float:left;line-height:58px;font-size:18px;margin-left:10px;\">Frederiksberg Allé St. (Metro)</div><div style=\"clear:both;\"></div>",
+                "infocontent": "<div style=\"display:none;\" id=\"stationLines_8603343\"><div style=\"display:block;width:400px;\" id=\"stationWaitIcon_8603343\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/ajax_loader_small.gif\"/>&nbsp;Loading...</div></div><div style=\"height:240px;\" class=\"lc_stationDeparturesPopup\" id=\"stationDepartures_8603343\"><div style=\"margin-top:10px;margin-bottom:5px;\">N&#230;ste afgange herfra (klik p&#229; afgang for at se linje p&#229; kort):</div><div><iframe height=\"180\" frameborder=\"0\" src=\"https://webapp.rejseplanen.dk/bin/stboard.exe/mn?L=vs_stblivemap&input=8603343&productsFilter=00000000001&\"></iframe></div><div><a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!SID|A=1@O=Frederiksberg Allé St. (Metro)@X=12540348@Y=55673729@L=8603343U=86p=1674468889&\">S&#248;g rejse herfra</a> <span style=\"color:#737470;\">|</span> <a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!ZID|A=1@O=Frederiksberg Allé St. (Metro)@X=12540348@Y=55673729@L=8603343U=86p=1674468889&\">S&#248;g rejse hertil</a></div></div>",
+                "imageurl": "/hafas-res/img/livemap/metro_stops.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.542892,
+                    55.688794
+                ]
+            },
+            "properties": {
+                "name": "Nuuks Plads St. (Metro)",
+                "type_transit": "location",
+                "infotitle": "<div style=\"float:left;padding:10px;\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/products/metro.png\"/></div><div style=\"float:left;line-height:58px;font-size:18px;margin-left:10px;\">Nuuks Plads St. (Metro)</div><div style=\"clear:both;\"></div>",
+                "infocontent": "<div style=\"display:none;\" id=\"stationLines_8603341\"><div style=\"display:block;width:400px;\" id=\"stationWaitIcon_8603341\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/ajax_loader_small.gif\"/>&nbsp;Loading...</div></div><div style=\"height:240px;\" class=\"lc_stationDeparturesPopup\" id=\"stationDepartures_8603341\"><div style=\"margin-top:10px;margin-bottom:5px;\">N&#230;ste afgange herfra (klik p&#229; afgang for at se linje p&#229; kort):</div><div><iframe height=\"180\" frameborder=\"0\" src=\"https://webapp.rejseplanen.dk/bin/stboard.exe/mn?L=vs_stblivemap&input=8603341&productsFilter=00000000001&\"></iframe></div><div><a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!SID|A=1@O=Nuuks Plads St. (Metro)@X=12542892@Y=55688794@L=8603341U=86p=1674468889&\">S&#248;g rejse herfra</a> <span style=\"color:#737470;\">|</span> <a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!ZID|A=1@O=Nuuks Plads St. (Metro)@X=12542892@Y=55688794@L=8603341U=86p=1674468889&\">S&#248;g rejse hertil</a></div></div>",
+                "imageurl": "/hafas-res/img/livemap/metro_stops.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.545813,
+                    55.667283
+                ]
+            },
+            "properties": {
+                "name": "Enghave Plads St. (Metro)",
+                "type_transit": "location",
+                "infotitle": "<div style=\"float:left;padding:10px;\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/products/metro.png\"/></div><div style=\"float:left;line-height:58px;font-size:18px;margin-left:10px;\">Enghave Plads St. (Metro)</div><div style=\"clear:both;\"></div>",
+                "infocontent": "<div style=\"display:none;\" id=\"stationLines_8603344\"><div style=\"display:block;width:400px;\" id=\"stationWaitIcon_8603344\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/ajax_loader_small.gif\"/>&nbsp;Loading...</div></div><div style=\"height:240px;\" class=\"lc_stationDeparturesPopup\" id=\"stationDepartures_8603344\"><div style=\"margin-top:10px;margin-bottom:5px;\">N&#230;ste afgange herfra (klik p&#229; afgang for at se linje p&#229; kort):</div><div><iframe height=\"180\" frameborder=\"0\" src=\"https://webapp.rejseplanen.dk/bin/stboard.exe/mn?L=vs_stblivemap&input=8603344&productsFilter=00000000001&\"></iframe></div><div><a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!SID|A=1@O=Enghave Plads St. (Metro)@X=12545813@Y=55667283@L=8603344U=86p=1674468889&\">S&#248;g rejse herfra</a> <span style=\"color:#737470;\">|</span> <a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!ZID|A=1@O=Enghave Plads St. (Metro)@X=12545813@Y=55667283@L=8603344U=86p=1674468889&\">S&#248;g rejse hertil</a></div></div>",
+                "imageurl": "/hafas-res/img/livemap/metro_stops.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.548231,
+                    55.703276
+                ]
+            },
+            "properties": {
+                "name": "Skjolds Plads St. (Metro)",
+                "type_transit": "location",
+                "infotitle": "<div style=\"float:left;padding:10px;\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/products/metro.png\"/></div><div style=\"float:left;line-height:58px;font-size:18px;margin-left:10px;\">Skjolds Plads St. (Metro)</div><div style=\"clear:both;\"></div>",
+                "infocontent": "<div style=\"display:none;\" id=\"stationLines_8603338\"><div style=\"display:block;width:400px;\" id=\"stationWaitIcon_8603338\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/ajax_loader_small.gif\"/>&nbsp;Loading...</div></div><div style=\"height:240px;\" class=\"lc_stationDeparturesPopup\" id=\"stationDepartures_8603338\"><div style=\"margin-top:10px;margin-bottom:5px;\">N&#230;ste afgange herfra (klik p&#229; afgang for at se linje p&#229; kort):</div><div><iframe height=\"180\" frameborder=\"0\" src=\"https://webapp.rejseplanen.dk/bin/stboard.exe/mn?L=vs_stblivemap&input=8603338&productsFilter=00000000001&\"></iframe></div><div><a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!SID|A=1@O=Skjolds Plads St. (Metro)@X=12548231@Y=55703276@L=8603338U=86p=1674468889&\">S&#248;g rejse herfra</a> <span style=\"color:#737470;\">|</span> <a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!ZID|A=1@O=Skjolds Plads St. (Metro)@X=12548231@Y=55703276@L=8603338U=86p=1674468889&\">S&#248;g rejse hertil</a></div></div>",
+                "imageurl": "/hafas-res/img/livemap/metro_stops.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.548896,
+                    55.693945
+                ]
+            },
+            "properties": {
+                "name": "Nørrebros Runddel St. (Metro)",
+                "type_transit": "location",
+                "infotitle": "<div style=\"float:left;padding:10px;\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/products/metro.png\"/></div><div style=\"float:left;line-height:58px;font-size:18px;margin-left:10px;\">Nørrebros Runddel St. (Metro)</div><div style=\"clear:both;\"></div>",
+                "infocontent": "<div style=\"display:none;\" id=\"stationLines_8603340\"><div style=\"display:block;width:400px;\" id=\"stationWaitIcon_8603340\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/ajax_loader_small.gif\"/>&nbsp;Loading...</div></div><div style=\"height:240px;\" class=\"lc_stationDeparturesPopup\" id=\"stationDepartures_8603340\"><div style=\"margin-top:10px;margin-bottom:5px;\">N&#230;ste afgange herfra (klik p&#229; afgang for at se linje p&#229; kort):</div><div><iframe height=\"180\" frameborder=\"0\" src=\"https://webapp.rejseplanen.dk/bin/stboard.exe/mn?L=vs_stblivemap&input=8603340&productsFilter=00000000001&\"></iframe></div><div><a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!SID|A=1@O=Nørrebros Runddel St. (Metro)@X=12548896@Y=55693945@L=8603340U=86p=1674468889&\">S&#248;g rejse herfra</a> <span style=\"color:#737470;\">|</span> <a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!ZID|A=1@O=Nørrebros Runddel St. (Metro)@X=12548896@Y=55693945@L=8603340U=86p=1674468889&\">S&#248;g rejse hertil</a></div></div>",
+                "imageurl": "/hafas-res/img/livemap/metro_stops.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.552429,
+                    55.681819
+                ]
+            },
+            "properties": {
+                "name": "Forum St. (Metro)",
+                "type_transit": "location",
+                "infotitle": "<div style=\"float:left;padding:10px;\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/products/metro.png\"/></div><div style=\"float:left;line-height:58px;font-size:18px;margin-left:10px;\">Forum St. (Metro)</div><div style=\"clear:both;\"></div>",
+                "infocontent": "<div style=\"display:none;\" id=\"stationLines_8603306\"><div style=\"display:block;width:400px;\" id=\"stationWaitIcon_8603306\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/ajax_loader_small.gif\"/>&nbsp;Loading...</div></div><div style=\"height:240px;\" class=\"lc_stationDeparturesPopup\" id=\"stationDepartures_8603306\"><div style=\"margin-top:10px;margin-bottom:5px;\">N&#230;ste afgange herfra (klik p&#229; afgang for at se linje p&#229; kort):</div><div><iframe height=\"180\" frameborder=\"0\" src=\"https://webapp.rejseplanen.dk/bin/stboard.exe/mn?L=vs_stblivemap&input=8603306&productsFilter=00000000001&\"></iframe></div><div><a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!SID|A=1@O=Forum St. (Metro)@X=12552429@Y=55681819@L=8603306U=86p=1674468889&\">S&#248;g rejse herfra</a> <span style=\"color:#737470;\">|</span> <a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!ZID|A=1@O=Forum St. (Metro)@X=12552429@Y=55681819@L=8603306U=86p=1674468889&\">S&#248;g rejse hertil</a></div></div>",
+                "imageurl": "/hafas-res/img/livemap/metro_stops.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.554883,
+                    55.699752
+                ]
+            },
+            "properties": {
+                "name": "Tagensvej (Jagtvej)",
+                "type_transit": "location",
+                "infotitle": "<div style=\"float:left;padding:10px;\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/products/metro.png\"/></div><div style=\"float:left;line-height:58px;font-size:18px;margin-left:10px;\">Tagensvej (Jagtvej)</div><div style=\"clear:both;\"></div>",
+                "infocontent": "<div style=\"display:none;\" id=\"stationLines_1087\"><div style=\"display:block;width:400px;\" id=\"stationWaitIcon_1087\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/ajax_loader_small.gif\"/>&nbsp;Loading...</div></div><div style=\"height:240px;\" class=\"lc_stationDeparturesPopup\" id=\"stationDepartures_1087\"><div style=\"margin-top:10px;margin-bottom:5px;\">N&#230;ste afgange herfra (klik p&#229; afgang for at se linje p&#229; kort):</div><div><iframe height=\"180\" frameborder=\"0\" src=\"https://webapp.rejseplanen.dk/bin/stboard.exe/mn?L=vs_stblivemap&input=1087&productsFilter=00000000001&\"></iframe></div><div><a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!SID|A=1@O=Tagensvej (Jagtvej)@X=12554883@Y=55699752@L=1087U=86p=1674468889&\">S&#248;g rejse herfra</a> <span style=\"color:#737470;\">|</span> <a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!ZID|A=1@O=Tagensvej (Jagtvej)@X=12554883@Y=55699752@L=1087U=86p=1674468889&\">S&#248;g rejse hertil</a></div></div>",
+                "imageurl": "/hafas-res/img/livemap/metro_stops.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.55509,
+                    55.699707
+                ]
+            },
+            "properties": {
+                "name": "Tagensvej (Jagtvej)",
+                "type_transit": "location",
+                "infotitle": "<div style=\"float:left;padding:10px;\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/products/metro.png\"/></div><div style=\"float:left;line-height:58px;font-size:18px;margin-left:10px;\">Tagensvej (Jagtvej)</div><div style=\"clear:both;\"></div>",
+                "infocontent": "<div style=\"display:none;\" id=\"stationLines_1124\"><div style=\"display:block;width:400px;\" id=\"stationWaitIcon_1124\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/ajax_loader_small.gif\"/>&nbsp;Loading...</div></div><div style=\"height:240px;\" class=\"lc_stationDeparturesPopup\" id=\"stationDepartures_1124\"><div style=\"margin-top:10px;margin-bottom:5px;\">N&#230;ste afgange herfra (klik p&#229; afgang for at se linje p&#229; kort):</div><div><iframe height=\"180\" frameborder=\"0\" src=\"https://webapp.rejseplanen.dk/bin/stboard.exe/mn?L=vs_stblivemap&input=1124&productsFilter=00000000001&\"></iframe></div><div><a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!SID|A=1@O=Tagensvej (Jagtvej)@X=12555090@Y=55699707@L=1124U=86p=1674468889&\">S&#248;g rejse herfra</a> <span style=\"color:#737470;\">|</span> <a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!ZID|A=1@O=Tagensvej (Jagtvej)@X=12555090@Y=55699707@L=1124U=86p=1674468889&\">S&#248;g rejse hertil</a></div></div>",
+                "imageurl": "/hafas-res/img/livemap/metro_stops.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.563998,
+                    55.706287
+                ]
+            },
+            "properties": {
+                "name": "Vibenshus Runddel St. (Metro)",
+                "type_transit": "location",
+                "infotitle": "<div style=\"float:left;padding:10px;\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/products/metro.png\"/></div><div style=\"float:left;line-height:58px;font-size:18px;margin-left:10px;\">Vibenshus Runddel St. (Metro)</div><div style=\"clear:both;\"></div>",
+                "infocontent": "<div style=\"display:none;\" id=\"stationLines_8603337\"><div style=\"display:block;width:400px;\" id=\"stationWaitIcon_8603337\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/ajax_loader_small.gif\"/>&nbsp;Loading...</div></div><div style=\"height:240px;\" class=\"lc_stationDeparturesPopup\" id=\"stationDepartures_8603337\"><div style=\"margin-top:10px;margin-bottom:5px;\">N&#230;ste afgange herfra (klik p&#229; afgang for at se linje p&#229; kort):</div><div><iframe height=\"180\" frameborder=\"0\" src=\"https://webapp.rejseplanen.dk/bin/stboard.exe/mn?L=vs_stblivemap&input=8603337&productsFilter=00000000001&\"></iframe></div><div><a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!SID|A=1@O=Vibenshus Runddel St. (Metro)@X=12563998@Y=55706287@L=8603337U=86p=1674468889&\">S&#248;g rejse herfra</a> <span style=\"color:#737470;\">|</span> <a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!ZID|A=1@O=Vibenshus Runddel St. (Metro)@X=12563998@Y=55706287@L=8603337U=86p=1674468889&\">S&#248;g rejse hertil</a></div></div>",
+                "imageurl": "/hafas-res/img/livemap/metro_stops.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.564124,
+                    55.67194
+                ]
+            },
+            "properties": {
+                "name": "København H (Metro)",
+                "type_transit": "location",
+                "infotitle": "<div style=\"float:left;padding:10px;\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/products/metro.png\"/></div><div style=\"float:left;line-height:58px;font-size:18px;margin-left:10px;\">København H (Metro)</div><div style=\"clear:both;\"></div>",
+                "infocontent": "<div style=\"display:none;\" id=\"stationLines_8603330\"><div style=\"display:block;width:400px;\" id=\"stationWaitIcon_8603330\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/ajax_loader_small.gif\"/>&nbsp;Loading...</div></div><div style=\"height:240px;\" class=\"lc_stationDeparturesPopup\" id=\"stationDepartures_8603330\"><div style=\"margin-top:10px;margin-bottom:5px;\">N&#230;ste afgange herfra (klik p&#229; afgang for at se linje p&#229; kort):</div><div><iframe height=\"180\" frameborder=\"0\" src=\"https://webapp.rejseplanen.dk/bin/stboard.exe/mn?L=vs_stblivemap&input=8603330&productsFilter=00000000001&\"></iframe></div><div><a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!SID|A=1@O=København H (Metro)@X=12564124@Y=55671940@L=8603330U=86p=1674468889&\">S&#248;g rejse herfra</a> <span style=\"color:#737470;\">|</span> <a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!ZID|A=1@O=København H (Metro)@X=12564124@Y=55671940@L=8603330U=86p=1674468889&\">S&#248;g rejse hertil</a></div></div>",
+                "imageurl": "/hafas-res/img/livemap/metro_stops.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.568807,
+                    55.676371
+                ]
+            },
+            "properties": {
+                "name": "Rådhuspladsen St. (Metro)",
+                "type_transit": "location",
+                "infotitle": "<div style=\"float:left;padding:10px;\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/products/metro.png\"/></div><div style=\"float:left;line-height:58px;font-size:18px;margin-left:10px;\">Rådhuspladsen St. (Metro)</div><div style=\"clear:both;\"></div>",
+                "infocontent": "<div style=\"display:none;\" id=\"stationLines_8603331\"><div style=\"display:block;width:400px;\" id=\"stationWaitIcon_8603331\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/ajax_loader_small.gif\"/>&nbsp;Loading...</div></div><div style=\"height:240px;\" class=\"lc_stationDeparturesPopup\" id=\"stationDepartures_8603331\"><div style=\"margin-top:10px;margin-bottom:5px;\">N&#230;ste afgange herfra (klik p&#229; afgang for at se linje p&#229; kort):</div><div><iframe height=\"180\" frameborder=\"0\" src=\"https://webapp.rejseplanen.dk/bin/stboard.exe/mn?L=vs_stblivemap&input=8603331&productsFilter=00000000001&\"></iframe></div><div><a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!SID|A=1@O=Rådhuspladsen St. (Metro)@X=12568807@Y=55676371@L=8603331U=86p=1674468889&\">S&#248;g rejse herfra</a> <span style=\"color:#737470;\">|</span> <a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!ZID|A=1@O=Rådhuspladsen St. (Metro)@X=12568807@Y=55676371@L=8603331U=86p=1674468889&\">S&#248;g rejse hertil</a></div></div>",
+                "imageurl": "/hafas-res/img/livemap/metro_stops.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.571046,
+                    55.683841
+                ]
+            },
+            "properties": {
+                "name": "Nørreport St. (Metro)",
+                "type_transit": "location",
+                "infotitle": "<div style=\"float:left;padding:10px;\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/products/metro.png\"/></div><div style=\"float:left;line-height:58px;font-size:18px;margin-left:10px;\">Nørreport St. (Metro)</div><div style=\"clear:both;\"></div>",
+                "infocontent": "<div style=\"display:none;\" id=\"stationLines_8603307\"><div style=\"display:block;width:400px;\" id=\"stationWaitIcon_8603307\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/ajax_loader_small.gif\"/>&nbsp;Loading...</div></div><div style=\"height:240px;\" class=\"lc_stationDeparturesPopup\" id=\"stationDepartures_8603307\"><div style=\"margin-top:10px;margin-bottom:5px;\">N&#230;ste afgange herfra (klik p&#229; afgang for at se linje p&#229; kort):</div><div><iframe height=\"180\" frameborder=\"0\" src=\"https://webapp.rejseplanen.dk/bin/stboard.exe/mn?L=vs_stblivemap&input=8603307&productsFilter=00000000001&\"></iframe></div><div><a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!SID|A=1@O=Nørreport St. (Metro)@X=12571046@Y=55683841@L=8603307U=86p=1674468889&\">S&#248;g rejse herfra</a> <span style=\"color:#737470;\">|</span> <a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!ZID|A=1@O=Nørreport St. (Metro)@X=12571046@Y=55683841@L=8603307U=86p=1674468889&\">S&#248;g rejse hertil</a></div></div>",
+                "imageurl": "/hafas-res/img/livemap/metro_stops.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.576071,
+                    55.699132
+                ]
+            },
+            "properties": {
+                "name": "Trianglen St. (Metro)",
+                "type_transit": "location",
+                "infotitle": "<div style=\"float:left;padding:10px;\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/products/metro.png\"/></div><div style=\"float:left;line-height:58px;font-size:18px;margin-left:10px;\">Trianglen St. (Metro)</div><div style=\"clear:both;\"></div>",
+                "infocontent": "<div style=\"display:none;\" id=\"stationLines_8603335\"><div style=\"display:block;width:400px;\" id=\"stationWaitIcon_8603335\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/ajax_loader_small.gif\"/>&nbsp;Loading...</div></div><div style=\"height:240px;\" class=\"lc_stationDeparturesPopup\" id=\"stationDepartures_8603335\"><div style=\"margin-top:10px;margin-bottom:5px;\">N&#230;ste afgange herfra (klik p&#229; afgang for at se linje p&#229; kort):</div><div><iframe height=\"180\" frameborder=\"0\" src=\"https://webapp.rejseplanen.dk/bin/stboard.exe/mn?L=vs_stblivemap&input=8603335&productsFilter=00000000001&\"></iframe></div><div><a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!SID|A=1@O=Trianglen St. (Metro)@X=12576071@Y=55699132@L=8603335U=86p=1674468889&\">S&#248;g rejse herfra</a> <span style=\"color:#737470;\">|</span> <a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!ZID|A=1@O=Trianglen St. (Metro)@X=12576071@Y=55699132@L=8603335U=86p=1674468889&\">S&#248;g rejse hertil</a></div></div>",
+                "imageurl": "/hafas-res/img/livemap/metro_stops.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.576709,
+                    55.709254
+                ]
+            },
+            "properties": {
+                "name": "Poul Henningsens Plads St. (Metro)",
+                "type_transit": "location",
+                "infotitle": "<div style=\"float:left;padding:10px;\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/products/metro.png\"/></div><div style=\"float:left;line-height:58px;font-size:18px;margin-left:10px;\">Poul Henningsens Plads St. (Metro)</div><div style=\"clear:both;\"></div>",
+                "infocontent": "<div style=\"display:none;\" id=\"stationLines_8603336\"><div style=\"display:block;width:400px;\" id=\"stationWaitIcon_8603336\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/ajax_loader_small.gif\"/>&nbsp;Loading...</div></div><div style=\"height:240px;\" class=\"lc_stationDeparturesPopup\" id=\"stationDepartures_8603336\"><div style=\"margin-top:10px;margin-bottom:5px;\">N&#230;ste afgange herfra (klik p&#229; afgang for at se linje p&#229; kort):</div><div><iframe height=\"180\" frameborder=\"0\" src=\"https://webapp.rejseplanen.dk/bin/stboard.exe/mn?L=vs_stblivemap&input=8603336&productsFilter=00000000001&\"></iframe></div><div><a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!SID|A=1@O=Poul Henningsens Plads St. (Metro)@X=12576709@Y=55709254@L=8603336U=86p=1674468889&\">S&#248;g rejse herfra</a> <span style=\"color:#737470;\">|</span> <a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!ZID|A=1@O=Poul Henningsens Plads St. (Metro)@X=12576709@Y=55709254@L=8603336U=86p=1674468889&\">S&#248;g rejse hertil</a></div></div>",
+                "imageurl": "/hafas-res/img/livemap/metro_stops.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.579577,
+                    55.677747
+                ]
+            },
+            "properties": {
+                "name": "Gammel Strand St. (Metro)",
+                "type_transit": "location",
+                "infotitle": "<div style=\"float:left;padding:10px;\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/products/metro.png\"/></div><div style=\"float:left;line-height:58px;font-size:18px;margin-left:10px;\">Gammel Strand St. (Metro)</div><div style=\"clear:both;\"></div>",
+                "infocontent": "<div style=\"display:none;\" id=\"stationLines_8603332\"><div style=\"display:block;width:400px;\" id=\"stationWaitIcon_8603332\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/ajax_loader_small.gif\"/>&nbsp;Loading...</div></div><div style=\"height:240px;\" class=\"lc_stationDeparturesPopup\" id=\"stationDepartures_8603332\"><div style=\"margin-top:10px;margin-bottom:5px;\">N&#230;ste afgange herfra (klik p&#229; afgang for at se linje p&#229; kort):</div><div><iframe height=\"180\" frameborder=\"0\" src=\"https://webapp.rejseplanen.dk/bin/stboard.exe/mn?L=vs_stblivemap&input=8603332&productsFilter=00000000001&\"></iframe></div><div><a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!SID|A=1@O=Gammel Strand St. (Metro)@X=12579577@Y=55677747@L=8603332U=86p=1674468889&\">S&#248;g rejse herfra</a> <span style=\"color:#737470;\">|</span> <a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!ZID|A=1@O=Gammel Strand St. (Metro)@X=12579577@Y=55677747@L=8603332U=86p=1674468889&\">S&#248;g rejse hertil</a></div></div>",
+                "imageurl": "/hafas-res/img/livemap/metro_stops.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.585213,
+                    55.663418
+                ]
+            },
+            "properties": {
+                "name": "Islands Brygge St. (Metro)",
+                "type_transit": "location",
+                "infotitle": "<div style=\"float:left;padding:10px;\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/products/metro.png\"/></div><div style=\"float:left;line-height:58px;font-size:18px;margin-left:10px;\">Islands Brygge St. (Metro)</div><div style=\"clear:both;\"></div>",
+                "infocontent": "<div style=\"display:none;\" id=\"stationLines_8603310\"><div style=\"display:block;width:400px;\" id=\"stationWaitIcon_8603310\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/ajax_loader_small.gif\"/>&nbsp;Loading...</div></div><div style=\"height:240px;\" class=\"lc_stationDeparturesPopup\" id=\"stationDepartures_8603310\"><div style=\"margin-top:10px;margin-bottom:5px;\">N&#230;ste afgange herfra (klik p&#229; afgang for at se linje p&#229; kort):</div><div><iframe height=\"180\" frameborder=\"0\" src=\"https://webapp.rejseplanen.dk/bin/stboard.exe/mn?L=vs_stblivemap&input=8603310&productsFilter=00000000001&\"></iframe></div><div><a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!SID|A=1@O=Islands Brygge St. (Metro)@X=12585213@Y=55663418@L=8603310U=86p=1674468889&\">S&#248;g rejse herfra</a> <span style=\"color:#737470;\">|</span> <a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!ZID|A=1@O=Islands Brygge St. (Metro)@X=12585213@Y=55663418@L=8603310U=86p=1674468889&\">S&#248;g rejse hertil</a></div></div>",
+                "imageurl": "/hafas-res/img/livemap/metro_stops.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.585231,
+                    55.679185
+                ]
+            },
+            "properties": {
+                "name": "Kongens Nytorv St. (Metro)",
+                "type_transit": "location",
+                "infotitle": "<div style=\"float:left;padding:10px;\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/products/metro.png\"/></div><div style=\"float:left;line-height:58px;font-size:18px;margin-left:10px;\">Kongens Nytorv St. (Metro)</div><div style=\"clear:both;\"></div>",
+                "infocontent": "<div style=\"display:none;\" id=\"stationLines_8603308\"><div style=\"display:block;width:400px;\" id=\"stationWaitIcon_8603308\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/ajax_loader_small.gif\"/>&nbsp;Loading...</div></div><div style=\"height:240px;\" class=\"lc_stationDeparturesPopup\" id=\"stationDepartures_8603308\"><div style=\"margin-top:10px;margin-bottom:5px;\">N&#230;ste afgange herfra (klik p&#229; afgang for at se linje p&#229; kort):</div><div><iframe height=\"180\" frameborder=\"0\" src=\"https://webapp.rejseplanen.dk/bin/stboard.exe/mn?L=vs_stblivemap&input=8603308&productsFilter=00000000001&\"></iframe></div><div><a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!SID|A=1@O=Kongens Nytorv St. (Metro)@X=12585231@Y=55679185@L=8603308U=86p=1674468889&\">S&#248;g rejse herfra</a> <span style=\"color:#737470;\">|</span> <a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!ZID|A=1@O=Kongens Nytorv St. (Metro)@X=12585231@Y=55679185@L=8603308U=86p=1674468889&\">S&#248;g rejse hertil</a></div></div>",
+                "imageurl": "/hafas-res/img/livemap/metro_stops.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.585348,
+                    55.693217
+                ]
+            },
+            "properties": {
+                "name": "Østerport St. (Metro)",
+                "type_transit": "location",
+                "infotitle": "<div style=\"float:left;padding:10px;\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/products/metro.png\"/></div><div style=\"float:left;line-height:58px;font-size:18px;margin-left:10px;\">Østerport St. (Metro)</div><div style=\"clear:both;\"></div>",
+                "infocontent": "<div style=\"display:none;\" id=\"stationLines_8603334\"><div style=\"display:block;width:400px;\" id=\"stationWaitIcon_8603334\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/ajax_loader_small.gif\"/>&nbsp;Loading...</div></div><div style=\"height:240px;\" class=\"lc_stationDeparturesPopup\" id=\"stationDepartures_8603334\"><div style=\"margin-top:10px;margin-bottom:5px;\">N&#230;ste afgange herfra (klik p&#229; afgang for at se linje p&#229; kort):</div><div><iframe height=\"180\" frameborder=\"0\" src=\"https://webapp.rejseplanen.dk/bin/stboard.exe/mn?L=vs_stblivemap&input=8603334&productsFilter=00000000001&\"></iframe></div><div><a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!SID|A=1@O=Østerport St. (Metro)@X=12585348@Y=55693217@L=8603334U=86p=1674468889&\">S&#248;g rejse herfra</a> <span style=\"color:#737470;\">|</span> <a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!ZID|A=1@O=Østerport St. (Metro)@X=12585348@Y=55693217@L=8603334U=86p=1674468889&\">S&#248;g rejse hertil</a></div></div>",
+                "imageurl": "/hafas-res/img/livemap/metro_stops.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.588629,
+                    55.685244
+                ]
+            },
+            "properties": {
+                "name": "Marmorkirken St. (Metro)",
+                "type_transit": "location",
+                "infotitle": "<div style=\"float:left;padding:10px;\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/products/metro.png\"/></div><div style=\"float:left;line-height:58px;font-size:18px;margin-left:10px;\">Marmorkirken St. (Metro)</div><div style=\"clear:both;\"></div>",
+                "infocontent": "<div style=\"display:none;\" id=\"stationLines_8603333\"><div style=\"display:block;width:400px;\" id=\"stationWaitIcon_8603333\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/ajax_loader_small.gif\"/>&nbsp;Loading...</div></div><div style=\"height:240px;\" class=\"lc_stationDeparturesPopup\" id=\"stationDepartures_8603333\"><div style=\"margin-top:10px;margin-bottom:5px;\">N&#230;ste afgange herfra (klik p&#229; afgang for at se linje p&#229; kort):</div><div><iframe height=\"180\" frameborder=\"0\" src=\"https://webapp.rejseplanen.dk/bin/stboard.exe/mn?L=vs_stblivemap&input=8603333&productsFilter=00000000001&\"></iframe></div><div><a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!SID|A=1@O=Marmorkirken St. (Metro)@X=12588629@Y=55685244@L=8603333U=86p=1674468889&\">S&#248;g rejse herfra</a> <span style=\"color:#737470;\">|</span> <a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!ZID|A=1@O=Marmorkirken St. (Metro)@X=12588629@Y=55685244@L=8603333U=86p=1674468889&\">S&#248;g rejse hertil</a></div></div>",
+                "imageurl": "/hafas-res/img/livemap/metro_stops.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.591388,
+                    55.672057
+                ]
+            },
+            "properties": {
+                "name": "Christianshavn St. (Metro)",
+                "type_transit": "location",
+                "infotitle": "<div style=\"float:left;padding:10px;\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/products/metro.png\"/></div><div style=\"float:left;line-height:58px;font-size:18px;margin-left:10px;\">Christianshavn St. (Metro)</div><div style=\"clear:both;\"></div>",
+                "infocontent": "<div style=\"display:none;\" id=\"stationLines_8603309\"><div style=\"display:block;width:400px;\" id=\"stationWaitIcon_8603309\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/ajax_loader_small.gif\"/>&nbsp;Loading...</div></div><div style=\"height:240px;\" class=\"lc_stationDeparturesPopup\" id=\"stationDepartures_8603309\"><div style=\"margin-top:10px;margin-bottom:5px;\">N&#230;ste afgange herfra (klik p&#229; afgang for at se linje p&#229; kort):</div><div><iframe height=\"180\" frameborder=\"0\" src=\"https://webapp.rejseplanen.dk/bin/stboard.exe/mn?L=vs_stblivemap&input=8603309&productsFilter=00000000001&\"></iframe></div><div><a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!SID|A=1@O=Christianshavn St. (Metro)@X=12591388@Y=55672057@L=8603309U=86p=1674468889&\">S&#248;g rejse herfra</a> <span style=\"color:#737470;\">|</span> <a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!ZID|A=1@O=Christianshavn St. (Metro)@X=12591388@Y=55672057@L=8603309U=86p=1674468889&\">S&#248;g rejse hertil</a></div></div>",
+                "imageurl": "/hafas-res/img/livemap/metro_stops.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.591838,
+                    55.707294
+                ]
+            },
+            "properties": {
+                "name": "Nordhavn St. (Metro)",
+                "type_transit": "location",
+                "infotitle": "<div style=\"float:left;padding:10px;\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/products/metro.png\"/></div><div style=\"float:left;line-height:58px;font-size:18px;margin-left:10px;\">Nordhavn St. (Metro)</div><div style=\"clear:both;\"></div>",
+                "infocontent": "<div style=\"display:none;\" id=\"stationLines_8603346\"><div style=\"display:block;width:400px;\" id=\"stationWaitIcon_8603346\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/ajax_loader_small.gif\"/>&nbsp;Loading...</div></div><div style=\"height:240px;\" class=\"lc_stationDeparturesPopup\" id=\"stationDepartures_8603346\"><div style=\"margin-top:10px;margin-bottom:5px;\">N&#230;ste afgange herfra (klik p&#229; afgang for at se linje p&#229; kort):</div><div><iframe height=\"180\" frameborder=\"0\" src=\"https://webapp.rejseplanen.dk/bin/stboard.exe/mn?L=vs_stblivemap&input=8603346&productsFilter=00000000001&\"></iframe></div><div><a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!SID|A=1@O=Nordhavn St. (Metro)@X=12591838@Y=55707294@L=8603346U=86p=1674468889&\">S&#248;g rejse herfra</a> <span style=\"color:#737470;\">|</span> <a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!ZID|A=1@O=Nordhavn St. (Metro)@X=12591838@Y=55707294@L=8603346U=86p=1674468889&\">S&#248;g rejse hertil</a></div></div>",
+                "imageurl": "/hafas-res/img/livemap/metro_stops.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.588215,
+                    55.65459
+                ]
+            },
+            "properties": {
+                "name": "DR Byen St. (Metro)",
+                "type_transit": "location",
+                "infotitle": "<div style=\"float:left;padding:10px;\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/products/metro.png\"/></div><div style=\"float:left;line-height:58px;font-size:18px;margin-left:10px;\">DR Byen St. (Metro)</div><div style=\"clear:both;\"></div>",
+                "infocontent": "<div style=\"display:none;\" id=\"stationLines_8663311\"><div style=\"display:block;width:400px;\" id=\"stationWaitIcon_8663311\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/ajax_loader_small.gif\"/>&nbsp;Loading...</div></div><div style=\"height:240px;\" class=\"lc_stationDeparturesPopup\" id=\"stationDepartures_8663311\"><div style=\"margin-top:10px;margin-bottom:5px;\">N&#230;ste afgange herfra (klik p&#229; afgang for at se linje p&#229; kort):</div><div><iframe height=\"180\" frameborder=\"0\" src=\"https://webapp.rejseplanen.dk/bin/stboard.exe/mn?L=vs_stblivemap&input=8663311&productsFilter=00000000001&\"></iframe></div><div><a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!SID|A=1@O=DR Byen St. (Metro)@X=12588215@Y=55654590@L=8663311U=86p=1674468889&\">S&#248;g rejse herfra</a> <span style=\"color:#737470;\">|</span> <a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!ZID|A=1@O=DR Byen St. (Metro)@X=12588215@Y=55654590@L=8663311U=86p=1674468889&\">S&#248;g rejse hertil</a></div></div>",
+                "imageurl": "/hafas-res/img/livemap/metro_stops.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.588988,
+                    55.655813
+                ]
+            },
+            "properties": {
+                "name": "DR Byen St. (Metro)",
+                "type_transit": "location",
+                "infotitle": "<div style=\"float:left;padding:10px;\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/products/metro.png\"/></div><div style=\"float:left;line-height:58px;font-size:18px;margin-left:10px;\">DR Byen St. (Metro)</div><div style=\"clear:both;\"></div>",
+                "infocontent": "<div style=\"display:none;\" id=\"stationLines_8603311\"><div style=\"display:block;width:400px;\" id=\"stationWaitIcon_8603311\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/ajax_loader_small.gif\"/>&nbsp;Loading...</div></div><div style=\"height:240px;\" class=\"lc_stationDeparturesPopup\" id=\"stationDepartures_8603311\"><div style=\"margin-top:10px;margin-bottom:5px;\">N&#230;ste afgange herfra (klik p&#229; afgang for at se linje p&#229; kort):</div><div><iframe height=\"180\" frameborder=\"0\" src=\"https://webapp.rejseplanen.dk/bin/stboard.exe/mn?L=vs_stblivemap&input=8603311&productsFilter=00000000001&\"></iframe></div><div><a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!SID|A=1@O=DR Byen St. (Metro)@X=12588988@Y=55655813@L=8603311U=86p=1674468889&\">S&#248;g rejse herfra</a> <span style=\"color:#737470;\">|</span> <a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!ZID|A=1@O=DR Byen St. (Metro)@X=12588988@Y=55655813@L=8603311U=86p=1674468889&\">S&#248;g rejse hertil</a></div></div>",
+                "imageurl": "/hafas-res/img/livemap/metro_stops.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.595272,
+                    55.711609
+                ]
+            },
+            "properties": {
+                "name": "Orientkaj St. (Metro)",
+                "type_transit": "location",
+                "infotitle": "<div style=\"float:left;padding:10px;\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/products/metro.png\"/></div><div style=\"float:left;line-height:58px;font-size:18px;margin-left:10px;\">Orientkaj St. (Metro)</div><div style=\"clear:both;\"></div>",
+                "infocontent": "<div style=\"display:none;\" id=\"stationLines_8603345\"><div style=\"display:block;width:400px;\" id=\"stationWaitIcon_8603345\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/ajax_loader_small.gif\"/>&nbsp;Loading...</div></div><div style=\"height:240px;\" class=\"lc_stationDeparturesPopup\" id=\"stationDepartures_8603345\"><div style=\"margin-top:10px;margin-bottom:5px;\">N&#230;ste afgange herfra (klik p&#229; afgang for at se linje p&#229; kort):</div><div><iframe height=\"180\" frameborder=\"0\" src=\"https://webapp.rejseplanen.dk/bin/stboard.exe/mn?L=vs_stblivemap&input=8603345&productsFilter=00000000001&\"></iframe></div><div><a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!SID|A=1@O=Orientkaj St. (Metro)@X=12595272@Y=55711609@L=8603345U=86p=1674468889&\">S&#248;g rejse herfra</a> <span style=\"color:#737470;\">|</span> <a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!ZID|A=1@O=Orientkaj St. (Metro)@X=12595272@Y=55711609@L=8603345U=86p=1674468889&\">S&#248;g rejse hertil</a></div></div>",
+                "imageurl": "/hafas-res/img/livemap/metro_stops.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.575298,
+                    55.619389
+                ]
+            },
+            "properties": {
+                "name": "Vestamager St. (Metro)",
+                "type_transit": "location",
+                "infotitle": "<div style=\"float:left;padding:10px;\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/products/metro.png\"/></div><div style=\"float:left;line-height:58px;font-size:18px;margin-left:10px;\">Vestamager St. (Metro)</div><div style=\"clear:both;\"></div>",
+                "infocontent": "<div style=\"display:none;\" id=\"stationLines_8603317\"><div style=\"display:block;width:400px;\" id=\"stationWaitIcon_8603317\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/ajax_loader_small.gif\"/>&nbsp;Loading...</div></div><div style=\"height:240px;\" class=\"lc_stationDeparturesPopup\" id=\"stationDepartures_8603317\"><div style=\"margin-top:10px;margin-bottom:5px;\">N&#230;ste afgange herfra (klik p&#229; afgang for at se linje p&#229; kort):</div><div><iframe height=\"180\" frameborder=\"0\" src=\"https://webapp.rejseplanen.dk/bin/stboard.exe/mn?L=vs_stblivemap&input=8603317&productsFilter=00000000001&\"></iframe></div><div><a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!SID|A=1@O=Vestamager St. (Metro)@X=12575298@Y=55619389@L=8603317U=86p=1674468889&\">S&#248;g rejse herfra</a> <span style=\"color:#737470;\">|</span> <a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!ZID|A=1@O=Vestamager St. (Metro)@X=12575298@Y=55619389@L=8603317U=86p=1674468889&\">S&#248;g rejse hertil</a></div></div>",
+                "imageurl": "/hafas-res/img/livemap/metro_stops.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.579388,
+                    55.629052
+                ]
+            },
+            "properties": {
+                "name": "Ørestad St. (Metro)",
+                "type_transit": "location",
+                "infotitle": "<div style=\"float:left;padding:10px;\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/products/metro.png\"/></div><div style=\"float:left;line-height:58px;font-size:18px;margin-left:10px;\">Ørestad St. (Metro)</div><div style=\"clear:both;\"></div>",
+                "infocontent": "<div style=\"display:none;\" id=\"stationLines_8603315\"><div style=\"display:block;width:400px;\" id=\"stationWaitIcon_8603315\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/ajax_loader_small.gif\"/>&nbsp;Loading...</div></div><div style=\"height:240px;\" class=\"lc_stationDeparturesPopup\" id=\"stationDepartures_8603315\"><div style=\"margin-top:10px;margin-bottom:5px;\">N&#230;ste afgange herfra (klik p&#229; afgang for at se linje p&#229; kort):</div><div><iframe height=\"180\" frameborder=\"0\" src=\"https://webapp.rejseplanen.dk/bin/stboard.exe/mn?L=vs_stblivemap&input=8603315&productsFilter=00000000001&\"></iframe></div><div><a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!SID|A=1@O=Ørestad St. (Metro)@X=12579388@Y=55629052@L=8603315U=86p=1674468889&\">S&#248;g rejse herfra</a> <span style=\"color:#737470;\">|</span> <a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!ZID|A=1@O=Ørestad St. (Metro)@X=12579388@Y=55629052@L=8603315U=86p=1674468889&\">S&#248;g rejse hertil</a></div></div>",
+                "imageurl": "/hafas-res/img/livemap/metro_stops.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.582929,
+                    55.63805
+                ]
+            },
+            "properties": {
+                "name": "Bella Center St. (Metro)",
+                "type_transit": "location",
+                "infotitle": "<div style=\"float:left;padding:10px;\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/products/metro.png\"/></div><div style=\"float:left;line-height:58px;font-size:18px;margin-left:10px;\">Bella Center St. (Metro)</div><div style=\"clear:both;\"></div>",
+                "infocontent": "<div style=\"display:none;\" id=\"stationLines_8603313\"><div style=\"display:block;width:400px;\" id=\"stationWaitIcon_8603313\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/ajax_loader_small.gif\"/>&nbsp;Loading...</div></div><div style=\"height:240px;\" class=\"lc_stationDeparturesPopup\" id=\"stationDepartures_8603313\"><div style=\"margin-top:10px;margin-bottom:5px;\">N&#230;ste afgange herfra (klik p&#229; afgang for at se linje p&#229; kort):</div><div><iframe height=\"180\" frameborder=\"0\" src=\"https://webapp.rejseplanen.dk/bin/stboard.exe/mn?L=vs_stblivemap&input=8603313&productsFilter=00000000001&\"></iframe></div><div><a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!SID|A=1@O=Bella Center St. (Metro)@X=12582929@Y=55638050@L=8603313U=86p=1674468889&\">S&#248;g rejse herfra</a> <span style=\"color:#737470;\">|</span> <a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!ZID|A=1@O=Bella Center St. (Metro)@X=12582929@Y=55638050@L=8603313U=86p=1674468889&\">S&#248;g rejse hertil</a></div></div>",
+                "imageurl": "/hafas-res/img/livemap/metro_stops.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.585725,
+                    55.645197
+                ]
+            },
+            "properties": {
+                "name": "Sundby St. (Metro)",
+                "type_transit": "location",
+                "infotitle": "<div style=\"float:left;padding:10px;\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/products/metro.png\"/></div><div style=\"float:left;line-height:58px;font-size:18px;margin-left:10px;\">Sundby St. (Metro)</div><div style=\"clear:both;\"></div>",
+                "infocontent": "<div style=\"display:none;\" id=\"stationLines_8603312\"><div style=\"display:block;width:400px;\" id=\"stationWaitIcon_8603312\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/ajax_loader_small.gif\"/>&nbsp;Loading...</div></div><div style=\"height:240px;\" class=\"lc_stationDeparturesPopup\" id=\"stationDepartures_8603312\"><div style=\"margin-top:10px;margin-bottom:5px;\">N&#230;ste afgange herfra (klik p&#229; afgang for at se linje p&#229; kort):</div><div><iframe height=\"180\" frameborder=\"0\" src=\"https://webapp.rejseplanen.dk/bin/stboard.exe/mn?L=vs_stblivemap&input=8603312&productsFilter=00000000001&\"></iframe></div><div><a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!SID|A=1@O=Sundby St. (Metro)@X=12585725@Y=55645197@L=8603312U=86p=1674468889&\">S&#248;g rejse herfra</a> <span style=\"color:#737470;\">|</span> <a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!ZID|A=1@O=Sundby St. (Metro)@X=12585725@Y=55645197@L=8603312U=86p=1674468889&\">S&#248;g rejse hertil</a></div></div>",
+                "imageurl": "/hafas-res/img/livemap/metro_stops.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.60293,
+                    55.663328
+                ]
+            },
+            "properties": {
+                "name": "Amagerbro St. (Metro)",
+                "type_transit": "location",
+                "infotitle": "<div style=\"float:left;padding:10px;\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/products/metro.png\"/></div><div style=\"float:left;line-height:58px;font-size:18px;margin-left:10px;\">Amagerbro St. (Metro)</div><div style=\"clear:both;\"></div>",
+                "infocontent": "<div style=\"display:none;\" id=\"stationLines_8603321\"><div style=\"display:block;width:400px;\" id=\"stationWaitIcon_8603321\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/ajax_loader_small.gif\"/>&nbsp;Loading...</div></div><div style=\"height:240px;\" class=\"lc_stationDeparturesPopup\" id=\"stationDepartures_8603321\"><div style=\"margin-top:10px;margin-bottom:5px;\">N&#230;ste afgange herfra (klik p&#229; afgang for at se linje p&#229; kort):</div><div><iframe height=\"180\" frameborder=\"0\" src=\"https://webapp.rejseplanen.dk/bin/stboard.exe/mn?L=vs_stblivemap&input=8603321&productsFilter=00000000001&\"></iframe></div><div><a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!SID|A=1@O=Amagerbro St. (Metro)@X=12602930@Y=55663328@L=8603321U=86p=1674468889&\">S&#248;g rejse herfra</a> <span style=\"color:#737470;\">|</span> <a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!ZID|A=1@O=Amagerbro St. (Metro)@X=12602930@Y=55663328@L=8603321U=86p=1674468889&\">S&#248;g rejse hertil</a></div></div>",
+                "imageurl": "/hafas-res/img/livemap/metro_stops.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.616414,
+                    55.662105
+                ]
+            },
+            "properties": {
+                "name": "Lergravsparken St. (Metro)",
+                "type_transit": "location",
+                "infotitle": "<div style=\"float:left;padding:10px;\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/products/metro.png\"/></div><div style=\"float:left;line-height:58px;font-size:18px;margin-left:10px;\">Lergravsparken St. (Metro)</div><div style=\"clear:both;\"></div>",
+                "infocontent": "<div style=\"display:none;\" id=\"stationLines_8603322\"><div style=\"display:block;width:400px;\" id=\"stationWaitIcon_8603322\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/ajax_loader_small.gif\"/>&nbsp;Loading...</div></div><div style=\"height:240px;\" class=\"lc_stationDeparturesPopup\" id=\"stationDepartures_8603322\"><div style=\"margin-top:10px;margin-bottom:5px;\">N&#230;ste afgange herfra (klik p&#229; afgang for at se linje p&#229; kort):</div><div><iframe height=\"180\" frameborder=\"0\" src=\"https://webapp.rejseplanen.dk/bin/stboard.exe/mn?L=vs_stblivemap&input=8603322&productsFilter=00000000001&\"></iframe></div><div><a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!SID|A=1@O=Lergravsparken St. (Metro)@X=12616414@Y=55662105@L=8603322U=86p=1674468889&\">S&#248;g rejse herfra</a> <span style=\"color:#737470;\">|</span> <a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!ZID|A=1@O=Lergravsparken St. (Metro)@X=12616414@Y=55662105@L=8603322U=86p=1674468889&\">S&#248;g rejse hertil</a></div></div>",
+                "imageurl": "/hafas-res/img/livemap/metro_stops.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.628451,
+                    55.661701
+                ]
+            },
+            "properties": {
+                "name": "Øresund St. (Metro)",
+                "type_transit": "location",
+                "infotitle": "<div style=\"float:left;padding:10px;\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/products/metro.png\"/></div><div style=\"float:left;line-height:58px;font-size:18px;margin-left:10px;\">Øresund St. (Metro)</div><div style=\"clear:both;\"></div>",
+                "infocontent": "<div style=\"display:none;\" id=\"stationLines_8603323\"><div style=\"display:block;width:400px;\" id=\"stationWaitIcon_8603323\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/ajax_loader_small.gif\"/>&nbsp;Loading...</div></div><div style=\"height:240px;\" class=\"lc_stationDeparturesPopup\" id=\"stationDepartures_8603323\"><div style=\"margin-top:10px;margin-bottom:5px;\">N&#230;ste afgange herfra (klik p&#229; afgang for at se linje p&#229; kort):</div><div><iframe height=\"180\" frameborder=\"0\" src=\"https://webapp.rejseplanen.dk/bin/stboard.exe/mn?L=vs_stblivemap&input=8603323&productsFilter=00000000001&\"></iframe></div><div><a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!SID|A=1@O=Øresund St. (Metro)@X=12628451@Y=55661701@L=8603323U=86p=1674468889&\">S&#248;g rejse herfra</a> <span style=\"color:#737470;\">|</span> <a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!ZID|A=1@O=Øresund St. (Metro)@X=12628451@Y=55661701@L=8603323U=86p=1674468889&\">S&#248;g rejse hertil</a></div></div>",
+                "imageurl": "/hafas-res/img/livemap/metro_stops.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.631588,
+                    55.656514
+                ]
+            },
+            "properties": {
+                "name": "Amager Strand St. (Metro)",
+                "type_transit": "location",
+                "infotitle": "<div style=\"float:left;padding:10px;\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/products/metro.png\"/></div><div style=\"float:left;line-height:58px;font-size:18px;margin-left:10px;\">Amager Strand St. (Metro)</div><div style=\"clear:both;\"></div>",
+                "infocontent": "<div style=\"display:none;\" id=\"stationLines_8603324\"><div style=\"display:block;width:400px;\" id=\"stationWaitIcon_8603324\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/ajax_loader_small.gif\"/>&nbsp;Loading...</div></div><div style=\"height:240px;\" class=\"lc_stationDeparturesPopup\" id=\"stationDepartures_8603324\"><div style=\"margin-top:10px;margin-bottom:5px;\">N&#230;ste afgange herfra (klik p&#229; afgang for at se linje p&#229; kort):</div><div><iframe height=\"180\" frameborder=\"0\" src=\"https://webapp.rejseplanen.dk/bin/stboard.exe/mn?L=vs_stblivemap&input=8603324&productsFilter=00000000001&\"></iframe></div><div><a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!SID|A=1@O=Amager Strand St. (Metro)@X=12631588@Y=55656514@L=8603324U=86p=1674468889&\">S&#248;g rejse herfra</a> <span style=\"color:#737470;\">|</span> <a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!ZID|A=1@O=Amager Strand St. (Metro)@X=12631588@Y=55656514@L=8603324U=86p=1674468889&\">S&#248;g rejse hertil</a></div></div>",
+                "imageurl": "/hafas-res/img/livemap/metro_stops.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.638321,
+                    55.64535
+                ]
+            },
+            "properties": {
+                "name": "Femøren St. (Metro)",
+                "type_transit": "location",
+                "infotitle": "<div style=\"float:left;padding:10px;\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/products/metro.png\"/></div><div style=\"float:left;line-height:58px;font-size:18px;margin-left:10px;\">Femøren St. (Metro)</div><div style=\"clear:both;\"></div>",
+                "infocontent": "<div style=\"display:none;\" id=\"stationLines_8603326\"><div style=\"display:block;width:400px;\" id=\"stationWaitIcon_8603326\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/ajax_loader_small.gif\"/>&nbsp;Loading...</div></div><div style=\"height:240px;\" class=\"lc_stationDeparturesPopup\" id=\"stationDepartures_8603326\"><div style=\"margin-top:10px;margin-bottom:5px;\">N&#230;ste afgange herfra (klik p&#229; afgang for at se linje p&#229; kort):</div><div><iframe height=\"180\" frameborder=\"0\" src=\"https://webapp.rejseplanen.dk/bin/stboard.exe/mn?L=vs_stblivemap&input=8603326&productsFilter=00000000001&\"></iframe></div><div><a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!SID|A=1@O=Femøren St. (Metro)@X=12638321@Y=55645350@L=8603326U=86p=1674468889&\">S&#248;g rejse herfra</a> <span style=\"color:#737470;\">|</span> <a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!ZID|A=1@O=Femøren St. (Metro)@X=12638321@Y=55645350@L=8603326U=86p=1674468889&\">S&#248;g rejse hertil</a></div></div>",
+                "imageurl": "/hafas-res/img/livemap/metro_stops.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.646735,
+                    55.635749
+                ]
+            },
+            "properties": {
+                "name": "Kastrup St. (Metro)",
+                "type_transit": "location",
+                "infotitle": "<div style=\"float:left;padding:10px;\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/products/metro.png\"/></div><div style=\"float:left;line-height:58px;font-size:18px;margin-left:10px;\">Kastrup St. (Metro)</div><div style=\"clear:both;\"></div>",
+                "infocontent": "<div style=\"display:none;\" id=\"stationLines_8603327\"><div style=\"display:block;width:400px;\" id=\"stationWaitIcon_8603327\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/ajax_loader_small.gif\"/>&nbsp;Loading...</div></div><div style=\"height:240px;\" class=\"lc_stationDeparturesPopup\" id=\"stationDepartures_8603327\"><div style=\"margin-top:10px;margin-bottom:5px;\">N&#230;ste afgange herfra (klik p&#229; afgang for at se linje p&#229; kort):</div><div><iframe height=\"180\" frameborder=\"0\" src=\"https://webapp.rejseplanen.dk/bin/stboard.exe/mn?L=vs_stblivemap&input=8603327&productsFilter=00000000001&\"></iframe></div><div><a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!SID|A=1@O=Kastrup St. (Metro)@X=12646735@Y=55635749@L=8603327U=86p=1674468889&\">S&#248;g rejse herfra</a> <span style=\"color:#737470;\">|</span> <a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!ZID|A=1@O=Kastrup St. (Metro)@X=12646735@Y=55635749@L=8603327U=86p=1674468889&\">S&#248;g rejse hertil</a></div></div>",
+                "imageurl": "/hafas-res/img/livemap/metro_stops.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.649387,
+                    55.63014
+                ]
+            },
+            "properties": {
+                "name": "Københavns Lufthavn St. (Metro)",
+                "type_transit": "location",
+                "infotitle": "<div style=\"float:left;padding:10px;\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/products/metro.png\"/></div><div style=\"float:left;line-height:58px;font-size:18px;margin-left:10px;\">Københavns Lufthavn St. (Metro)</div><div style=\"clear:both;\"></div>",
+                "infocontent": "<div style=\"display:none;\" id=\"stationLines_8603328\"><div style=\"display:block;width:400px;\" id=\"stationWaitIcon_8603328\"><img style=\"vertical-align:middle;\" src=\"/hafas-res/img/livemap/ajax_loader_small.gif\"/>&nbsp;Loading...</div></div><div style=\"height:240px;\" class=\"lc_stationDeparturesPopup\" id=\"stationDepartures_8603328\"><div style=\"margin-top:10px;margin-bottom:5px;\">N&#230;ste afgange herfra (klik p&#229; afgang for at se linje p&#229; kort):</div><div><iframe height=\"180\" frameborder=\"0\" src=\"https://webapp.rejseplanen.dk/bin/stboard.exe/mn?L=vs_stblivemap&input=8603328&productsFilter=00000000001&\"></iframe></div><div><a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!SID|A=1@O=Københavns Lufthavn St. (Metro)@X=12649387@Y=55630140@L=8603328U=86p=1674468889&\">S&#248;g rejse herfra</a> <span style=\"color:#737470;\">|</span> <a target=\"_blank\" href=\"https://webapp.rejseplanen.dk/webapp/index.html#!ZID|A=1@O=Københavns Lufthavn St. (Metro)@X=12649387@Y=55630140@L=8603328U=86p=1674468889&\">S&#248;g rejse hertil</a></div></div>",
+                "imageurl": "/hafas-res/img/livemap/metro_stops.png"
+            }
+        }
+    ]
+}
